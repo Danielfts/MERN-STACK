@@ -1,4 +1,4 @@
-import React, { useEffect, useState} from 'react';
+import { useEffect, useState} from 'react';
 import { baseUrl } from '../environment.js';
 import axios from 'axios';
 import Spinner from '../components/Spinner';
